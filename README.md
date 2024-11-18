@@ -14,6 +14,6 @@
 
 ###
 
-<h3 align="left">📚 Currently learning React</h3>
+<h3 align="left">📚 Currently learning Tkinter</h3>
 
 ###
