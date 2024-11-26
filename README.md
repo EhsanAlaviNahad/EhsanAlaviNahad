@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">📚 Currently learning Html</h3>
+<h3 align="left">📚 Currently learning HTML</h3>
 
 ###
 
