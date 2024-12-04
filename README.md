@@ -27,3 +27,9 @@
 <h3 align="left">📚 Currently learning React</h3>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsanalavinahad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
