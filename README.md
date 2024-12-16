@@ -24,6 +24,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="35" alt="ubuntu logo"  />
+</div>
+
+###
+
+
+###
+
 <h3 align="left">📚 Currently learning React</h3>
 
 ###
