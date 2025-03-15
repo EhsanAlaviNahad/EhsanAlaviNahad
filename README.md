@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
 </div>
 
 ###
@@ -30,13 +32,9 @@
 
 ###
 
+<h3 align="left">📚 Currently Improving :)</h3>
 
-###
-
-<h3 align="left">📚 Currently learning React</h3>
-
-###
-
+### 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsanalavinahad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=ayu-mirage&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
